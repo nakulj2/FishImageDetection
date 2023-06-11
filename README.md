@@ -1,4 +1,4 @@
-# FishImageDetection
+# Fish Image Detection using Convolutional Neural Network with Kernels
 
 This project aims to detect fish images using a Convolutional Neural Network (CNN) with kernels. The code provided demonstrates the implementation of the CNN model for this purpose.
 
